@@ -22,7 +22,7 @@ luna-lander
 
 1. Clone the repository
 ```bash
-  git clone 
+  git clone https://github.com/crist2201/luna_lander.git
 ```
 2. Create a virtual environment
 ```bash
