@@ -7,8 +7,11 @@ The objective of this project is to leverage Semi-Gradiente Sarsa, Deep Sarsa (D
 
 ```bash
 luna-lander
-├── notebooks
-│   ├── algorithms.ipynb
+├── SARSA
+│   ├── dsqn # model weights by episode
+│   ├── xposition # agent x position by episode
+│   ├── yposition # agent y position by episode
+├── algorithms.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
