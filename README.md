@@ -36,7 +36,7 @@ luna-lander
 4. Run all cells.
 
 ## :bulb: Blog
-In order to follow a step by step process with the analysis of the results go to my blog. [Lunar Lander](https://cst-portfolio.onrender.com/project/lunar_lander)
+In order to follow a step by step process with the analysis of the results go to my blog. [Lunar Lander](https://crist2201.github.io/project_lunar_lander.html)
 
 ## :wrench: Technologies
 - Pytorch
